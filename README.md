@@ -9,7 +9,7 @@ A simple redis java mock for unit testing.
 <dependency>
   <groupId>com.github.tenmao</groupId>
   <artifactId>redis-mock</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
 </dependency>
 ```
 
